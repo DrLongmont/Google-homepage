@@ -1,0 +1,63 @@
+img {
+	height: 92px;
+	width: 272px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 109px;
+}
+
+.searchbar {
+	height: 34px;
+	width: 559px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#barsearch {
+	height: 44px;
+	width: 584px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.googlesearch {
+  height: 36px;
+  width: 125.75px;
+  display: inline-block;
+  margin: 11px 4px;
+
+
+}
+
+.lucky {
+  height: 36px;
+  width: 125.75px;
+  display: inline-block;
+  margin: 11px 4px;
+
+
+}
+.links {
+  height: 30px;
+  width: 301.59
+}
+
+.gmail {
+  text-decoration: none;
+  float: right;
+  font-family: monospace;
+}
+
+.images {
+  text-decoration: none;
+  float: right;
+  font-family: monospace;
+
+}
+
+center {
+  display: block;
+  text-align:
+}
